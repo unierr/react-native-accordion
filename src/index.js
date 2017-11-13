@@ -1,7 +1,8 @@
 'use strict';
 
-import React, { PropTypes } from 'react';
+import React from 'react';
 import tweenState from 'react-tween-state';
+import PropTypes from 'prop-types'
 
 import {
   StyleSheet,
