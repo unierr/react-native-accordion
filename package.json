@@ -1,5 +1,5 @@
 {
-  "name": "react-native-accordion",
+  "name": "react-native-accordion-unierr",
   "version": "1.0.1",
   "description": "An Accordion Component for React Native",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/naoufal/react-native-accordion.git"
+    "url": "https://github.com/unierr/react-native-accordion-unierr"
   },
   "keywords": [
     "react-native",
@@ -21,9 +21,9 @@
   "author": "Naoufal Kadhom <naoufalkadhom@gmail.com> (https://github.com/naoufal)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/naoufal/react-native-accordion/issues"
+    "url": "https://github.com/unierr/react-native-accordion-unierr/issues"
   },
-  "homepage": "https://github.com/naoufal/react-native-accordion",
+  "homepage": "https://github.com/unierr/react-native-accordion-unierr",
   "dependencies": {
     "prop-types": "^15.6.0",
     "react-tween-state": "0.0.5"
